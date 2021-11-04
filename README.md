@@ -1,10 +1,25 @@
-- Hi 👋, I’m Ahmet - An Electronic Enginner From Turkey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/banner_crop.png)](https://youtube.com/c/codingisfun)
 
-<!---
-AhmetEnesYalcinkaya/AhmetEnesYalcinkaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Ahmet - A Data Engineer From Turkey</h1>
+
+<h2 align="center">I am passionate about finding ways to use Python to be more efficient and effective in business settings</h3>
+
+On my Udemy accont and YouTube channel I am creating tutorials for people who:
+-	… are looking for a way to leverage the power of Python in their day-to-day work.
+-	… are struggling with repetitive tasks in Excel and are looking for a way to use Python and VBA.
+-	… want to learn Data Analysis & Data Science to perform meaningful and impactful analyses.
+-	… are working with Excel and found themselves thinking - "there has to be a better way."
+
+If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UCrhxQPWjbug88tJERW617dQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingisfun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmet-enes-yal%C3%A7inkaya-965060120/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tgwew3fr" height="30" width="40" /></a>
+<a href="https://pythonandvba.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/website.svg" alt="pythonandvba.com" height="30" width="40" /></a>
+</p>
+
+📫 How to reach me **contact@pythonandvba.com**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/vba.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
