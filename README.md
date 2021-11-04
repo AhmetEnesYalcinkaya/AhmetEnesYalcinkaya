@@ -1,4 +1,3 @@
-[![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/banner_crop.png)](https://youtube.com/c/codingisfun)
 
 <h1 align="center">Hi 👋, I'm Ahmet - A Data Engineer From Turkey</h1>
 
@@ -15,7 +14,7 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCrhxQPWjbug88tJERW617dQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingisfun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmet-enes-yal%C3%A7inkaya-965060120/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tgwew3fr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmet-enes-yal%C3%A7inkaya-965060120/" target="_blank"><img align="center" src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-squircle.jpg" alt="Tgwew3fr" height="30" width="40" /></a>
 <a href="https://pythonandvba.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/website.svg" alt="pythonandvba.com" height="30" width="40" /></a>
 </p>
 
