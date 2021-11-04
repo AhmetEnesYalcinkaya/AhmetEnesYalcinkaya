@@ -20,4 +20,4 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 📫 How to reach me **yalcinkayaahmetenes@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img src="http://veriakademi.com/images/tensorflow-dersleri.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img src="https://pbs.twimg.com/media/E8Hv-4uWQAEW6CW.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
