@@ -13,7 +13,7 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.udemy.com/course/2021-computer-vision-opencv-a-ztm/?referralCode=9E65AE8D62503FE948AC" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png" alt="udemy" width="40" height="30"/> </a>
+<a href="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_7521d796d53d279e05908fc96bc778cb/udemy.png" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png" alt="udemy" width="30" height="30"/> </a>
 <a href="https://www.youtube.com/channel/UCrhxQPWjbug88tJERW617dQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmet-enes-yal%C3%A7inkaya-965060120/" target="_blank"><img align="center" src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-squircle.jpg" alt="Linkedin" height="30" width="30" /></a>
 </p>
