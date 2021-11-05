@@ -13,7 +13,7 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6jJkIRbDJkn87NnEiyW5EfTVBBS0CzwgYQ&usqp=CAU" target="_blank"> <img src="https://i.pinimg.com/originals/d1/d7/11/d1d7113a292af6ebbe146a83c8a752a5.png" alt="udemy" height="40" width="40"/> </a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6jJkIRbDJkn87NnEiyW5EfTVBBS0CzwgYQ&usqp=CAU" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphcP2c1J7NHX4g2mLNqSgG5Nqd08r5fIqF-joPJcPPEEtgg_r57gmHzj-runUd2NfDzg&usqp=CAU" alt="udemy" height="40" width="40"/> </a>
 <a href="https://www.youtube.com/channel/UCrhxQPWjbug88tJERW617dQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmet-enes-yal%C3%A7inkaya-965060120/" target="_blank"><img align="center" src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-squircle.jpg" alt="Linkedin" height="30" width="30" /></a>
 </p>
