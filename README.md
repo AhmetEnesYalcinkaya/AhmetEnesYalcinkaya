@@ -20,5 +20,5 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 📫 How to reach me **yalcinkayaahmetenes@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://pbs.twimg.com/media/E8Hv-4uWQAEW6CW.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<a href="https://www.udemy.com/course/2021-computer-vision-opencv-a-ztm/?referralCode=9E65AE8D62503FE948AC" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png" alt="javascript" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://pbs.twimg.com/media/E8Hv-4uWQAEW6CW.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.udemy.com/course/2021-computer-vision-opencv-a-ztm/?referralCode=9E65AE8D62503FE948AC" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png" alt="javascript" width="40" height="40"/> </a>
+ </p>
