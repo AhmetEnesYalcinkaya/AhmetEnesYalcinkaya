@@ -3,11 +3,11 @@
 
 <h2 align="center">I am passionate about finding ways to use Python to be more efficient and effective in business settings</h3>
 
-On my Udemy accont and YouTube channel I am creating tutorials for people who:
--	….
--	… .
--	… .
--	… ."
+On my Udemy account and YouTube channel I am creating tutorials for people who:
+-	… want to learn basic programming skills.
+-	… want to learn Computer Vision projects to develop your own.
+-	… want to learn enable the digital world to interact with the physical world.
+-	… are looking for a way to leverage the power of Python in their day-to-day work."
 
 If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
 
