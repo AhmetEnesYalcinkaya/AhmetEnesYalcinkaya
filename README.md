@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ahmet Enes Yalçınkaya From TurkeyAAA</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Enes Yalçınkaya From Turkey</h1>
 
 <h2 align="center">I am passionate about finding ways to use Python to be more efficient and effective in business settings</h3>
 
