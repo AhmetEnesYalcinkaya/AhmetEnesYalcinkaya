@@ -22,6 +22,6 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://pbs.twimg.com/media/E8Hv-4uWQAEW6CW.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://habrastorage.org/getpro/freelansim/allfiles/73/732/732383/31a7c6cc02.png" alt="python" width="40" height="40"/> </a>
+ <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://habrastorage.org/getpro/freelansim/allfiles/73/732/732383/31a7c6cc02.png" alt="python" width="80" height="40"/> </a>
  </p>
 
