@@ -14,7 +14,6 @@
 ![Numpy](https://img.shields.io/badge/numpy-F54A2A?style=for-the-badge&logo=numpy&logoColor=green)
 ![Pandas](https://img.shields.io/badge/pandas-5C2D91?style=for-the-badge&logo=pandas&logoColor=green)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-0078d7?style=for-the-badge&logo=tensorflow&logoColor=green)
-![Tensorflow](https://img.shields.io/badge/matplotlib-0078d7?style=for-the-badge&logo=matplotlib&logoColor=green)
 
 **Databases**
 
