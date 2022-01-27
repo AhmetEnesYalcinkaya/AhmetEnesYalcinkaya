@@ -7,7 +7,8 @@
 </a>
 <br />
 <br />
-<h3 align="left">Languages and Tools:</h3>
+
+**Languages and Tools**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Numpy](https://img.shields.io/badge/numpy-F54A2A?style=for-the-badge&logo=numpy&logoColor=green)
 ![Pandas](https://img.shields.io/badge/pandas-5C2D91?style=for-the-badge&logo=pandas&logoColor=green)
