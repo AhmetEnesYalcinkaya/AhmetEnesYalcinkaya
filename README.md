@@ -23,5 +23,4 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmetenesyalcinkaya&show_icons=true&" alt="ahmetenesyalcinkaya" />
