@@ -5,12 +5,7 @@
 <a href="https://www.linkedin.com/in/ahmet-enes-yal%C3%A7inkaya-965060120/">
   <img align="left" alt="Ahmet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.udemy.com/course/2021-computer-vision-opencv-a-ztm/?referralCode=9E65AE8D62503FE948AC">
-  <img align="left" alt="Ahmet's Udemy" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://ahmetenesyalcinkaya.medium.com/">
-  <img align="left" alt="Ahmet's Medium" width="22px" src="https://img.shields.io/badge/medium----black" />
-</a>
+
 <br />
 <br />
 
@@ -18,8 +13,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Numpy](https://img.shields.io/badge/numpy-F54A2A?style=for-the-badge&logo=numpy&logoColor=green)
-![Pandas](https://img.shields.io/badge/pandas-F54A2A?style=for-the-badge&logo=pandas&logoColor=green)
-![Tensorflow](https://img.shields.io/badge/tensorflow-F54A2A?style=for-the-badge&logo=tensorflow&logoColor=green)
+![Pandas](https://img.shields.io/badge/pandas-5C2D91?style=for-the-badge&logo=pandas&logoColor=green)
+![Tensorflow](https://img.shields.io/badge/tensorflow-0078d7?style=for-the-badge&logo=tensorflow&logoColor=green)
 
 **Databases**
 
