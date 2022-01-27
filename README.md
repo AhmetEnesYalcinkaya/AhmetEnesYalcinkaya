@@ -9,7 +9,7 @@
   <img align="left" alt="Ahmet's Udemy" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://ahmetenesyalcinkaya.medium.com/">
-  <img align="left" alt="Ahmet's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ahmet's Medium" width="22px" src="https://img.shields.io/badge/medium----black" />
 </a>
 <br />
 <br />
