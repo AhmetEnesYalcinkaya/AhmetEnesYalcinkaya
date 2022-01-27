@@ -17,3 +17,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+### Hi there 👋
+
+**You can connect me via**
+
+<a href="https://www.linkedin.com/in/ahmet-enes-yal%C3%A7inkaya-965060120/">
+  <img align="left" alt="Ahmet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+<br />
