@@ -13,8 +13,7 @@
 📫 How to reach me **ahmetenesyalcinkaya@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://pbs.twimg.com/media/E8Hv-4uWQAEW6CW.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="python" width="80" height="40"/> </a>
- <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/2560px-NumPy_logo.svg.png" alt="python" width="80" height="40"/> </a>
- </p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
