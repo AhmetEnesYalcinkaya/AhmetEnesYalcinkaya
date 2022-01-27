@@ -14,14 +14,14 @@
 <br />
 <br />
 
-**Databases**
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/numpy-F54A2A?style=for-the-badge&logo=numpy&logoColor=green)
+![Numpy](https://img.shields.io/badge/numpy-F54A2A?style=for-the-badge&logo=numpy&logoColor=green)
+![Pandas](https://img.shields.io/badge/pandas-F54A2A?style=for-the-badge&logo=pandas&logoColor=green)
+
+**Databases**
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmetenesyalcinkaya&show_icons=true&" alt="ahmetenesyalcinkaya" />
