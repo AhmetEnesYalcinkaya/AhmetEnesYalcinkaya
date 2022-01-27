@@ -22,6 +22,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/numpy-3670A0?style=for-the-badge&logo=numpy&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/numpy-3670A0?style=for-the-badge&logo=numpy&logoColor=green)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmetenesyalcinkaya&show_icons=true&" alt="ahmetenesyalcinkaya" />
