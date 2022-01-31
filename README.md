@@ -2,7 +2,7 @@
 
 **You can connect me via**
 
-<a href="www.linkedin.com/in/ahmetenesyalcinkaya">
+<a href="https://www.linkedin.com/in/ahmetenesyalcinkaya/">
   <img align="left" alt="Ahmet's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
